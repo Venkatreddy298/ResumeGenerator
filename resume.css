@@ -1,0 +1,18 @@
+#cv-template{
+    display: none;
+}
+body{
+background-image: url("https://images8.alphacoders.com/718/thumb-1920-718137.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+color: aliceblue;
+}
+.myimg{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 180px;
+}
+.background{
+    background-color:aqua;
+}
